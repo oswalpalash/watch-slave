@@ -15,7 +15,7 @@ jsonpatch==1.2
 jsonpointer==1.9
 kombu==4.0.0
 Markdown==2.4.1
-Pillow==2.0.0
+Pillow==6.2.0
 prettytable==0.7.2
 pycurl==7.19.0
 Pygments==1.4
