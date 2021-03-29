@@ -18,7 +18,7 @@ Markdown==2.4.1
 Pillow==2.0.0
 prettytable==0.7.2
 pycurl==7.19.0
-Pygments==1.4
+Pygments==2.7.4
 pyudev==0.15
 pyxattr==0.5.1
 PyYAML==3.10
